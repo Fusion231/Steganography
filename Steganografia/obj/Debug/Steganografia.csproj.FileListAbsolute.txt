@@ -1,0 +1,15 @@
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.csprojAssemblyReference.cache
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.Form1.resources
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.Properties.Resources.resources
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.csproj.GenerateResource.cache
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\Steganografia.exe.config
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\Steganografia.exe
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\Steganografia.pdb
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.exe
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.pdb
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.dekodowanie.resources
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.zakodowanie.resources
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\PeanutButter.TrayIcon.dll
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\PeanutButter.TrayIcon.xml
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\obj\Debug\Steganografia.csproj.CopyComplete
+F:\Szkola\2020-2021\Kryptografia\Cw2\Steganografia\bin\Debug\FontAwesome.Sharp.dll
